@@ -1,5 +1,5 @@
 # Cascade Ice
-Cascade ice climbing guide.
+Cascade ice climbing guide and website.
 Check it out at [https://wa-ice.now.sh]( https://wa-ice.now.sh).
 
 ## Getting started
