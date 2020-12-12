@@ -1,6 +1,6 @@
 # Cascade Ice
-Cascade ice climbing guide and website.
-Check it out at [https://wa-ice.now.sh]( https://wa-ice.now.sh).
+Cascade ice climbing guide and community observations.
+Check it out at [https://cascade-ice.now.sh]( https://cascade-ice.now.sh).
 
 ## Getting started
 Install dependencies:
@@ -22,8 +22,8 @@ source .env
 #### Admin Only
 To change the api key uploaded to `now`:
 ```.env
-now secrets rm mapbox-api-key
-now secrets add mapbox-api-key <key>
+vercel secrets rm mapbox-api-key
+vercel secrets add mapbox-api-key <key>
 ```
 
 ### Launch the app
@@ -48,19 +48,23 @@ npm install <dep> --save-dev
 ### Deploying
 To deploy, first deploy locally, making sure everything will work fine when it is deployed:
 ```.env
-now dev
+vercel dev
 ```
 You can visit the site at `http://localhost:3000` and make sure it's all good.
+To do this, you will probably need an `.env.build` file with any env vars like:
+```.env
+MAPBOX_API_KEY=<key>
+```
 
 Then, simply type:
 ```.env
-now
+vercel
 ```
-Follow the prompts. You can reach it at https://ice-conditions-map.kymccrohan.now.sh.
+Follow the prompts. You can reach it at https://ice-conditions-map.kymccrohan.vercel.app.
 
 To deploy to production (https://wa-ice.now.sh):
 ```.env
-now --prod
+vercel --prod
 ```
 
 ## Routes
@@ -116,3 +120,13 @@ was super helpful, although there was one issue with getting build to work.
 - [ReactJs](https://reactjs.org/)
 - [NextJs](https://nextjs.org/)
 - [Now](https://zeit.co/home)
+
+## Forking
+You can work on a fork. Create a fork. To pull in changes from master onto your fork:
+```
+git checkout master
+git remote add upstream https://github.com/Washington-Ice-Climbing/ice-conditions-map.git
+git fetch upstream
+git merge upstream/master
+git push master
+```
