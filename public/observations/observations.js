@@ -307,5 +307,48 @@ export const observations = [
         images: [
             "https://i.imgur.com/ulBMsyH.jpeg"
         ]
-    }
+    },
+    {
+        id: 22,
+        date: "2020-03-09",
+        route: "Snow Creek Ice",
+        region: "CCE",
+        condition: "In",
+        climbed: "no",
+        notes: "Found this multipitch climb one mile up the Snow Creek Trail from Snow Creek Wall.",
+        observer: "Simon Hoke",
+        images: [
+            "https://i.imgur.com/lFeRiAb.jpg",
+            "https://i.imgur.com/lLWXfOM.jpg"
+        ]
+    },
+    {
+        id: 23,
+        date: "2020-12-12",
+        route: "Roosevelt Ice",
+        region: "CCW",
+        condition: "Thin",
+        climbed: "no",
+        notes: "These climbs are on the north peak and north-north peak of Roosevelt. Of the lower single pitch routes, one appears to be in. Definitely some potential as things come in. Viewed from the general vicinity of Wright Mt.",
+        observer: "Kyle McCrohan",
+        coordinates: [47.476023, -121.475944],
+        images: [
+            "https://i.imgur.com/XVPjih9.jpg",
+            "https://i.imgur.com/OKnNWee.jpg"
+        ]
+    },
+    {
+        id: 24,
+        date: "2020-12-12",
+        route: "Chair Peak NE Buttress",
+        region: "CCW",
+        condition: "Hero",
+        climbed: "yes",
+        notes: "Ice step was in hero shape, but no ice on the rest of the route. Lots of spindrift.",
+        observer: "Eli Spitulnik",
+        images: [
+            "https://i.imgur.com/hMQXrKt.jpeg",
+            "https://i.imgur.com/68U6Pae.jpeg"
+        ]
+    },
 ]
