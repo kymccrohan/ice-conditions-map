@@ -345,6 +345,7 @@ export const observations = [
         condition: "Hero",
         climbed: "yes",
         notes: "Ice step was in hero shape, but no ice on the rest of the route. Lots of spindrift.",
+        link: "https://cascadeclimbers.com/forum/topic/103748-wa-ice-conditions-2020-21/?do=findComment&comment=1160760",
         observer: "Eli Spitulnik",
         images: [
             "https://i.imgur.com/hMQXrKt.jpeg",
