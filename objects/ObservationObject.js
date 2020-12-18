@@ -1,11 +1,12 @@
 import { RegionObject } from "./RegionObject";
 import { regions } from "../public/observations/regions";
+import moment from 'moment';
 
 export class ObservationObject {
     constructor(json) {
         this.id = json.id;
         this.key = json.id;
-        this.date = new Date(json.date + " PST");
+        this.date = moment(json.date);
         this.route = json.route;
         this.region = json.region;
         this.condition = json.condition;
@@ -21,6 +22,6 @@ export class ObservationObject {
 
     setAdditionalTexts() {
         this.observerText = this.observer ? this.observer : 'Anonymous';
-        this.dateString = this.date.toLocaleDateString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })
+        this.dateString = this.date.format("MMM D, YYYY");
     }
 }
