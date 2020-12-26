@@ -352,4 +352,16 @@ export const observations = [
             "https://i.imgur.com/68U6Pae.jpeg"
         ]
     },
+    {
+        id: 25,
+        date: "2020-12-25",
+        route: "Abiel North Face",
+        region: "CCW",
+        condition: "Plausible",
+        climbed: "no",
+        observer: "Lisa G",
+        images: [
+            "https://i.imgur.com/SSmAgYy.jpeg"
+        ]
+    },
 ]
