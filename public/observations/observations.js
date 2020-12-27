@@ -364,4 +364,30 @@ export const observations = [
             "https://i.imgur.com/SSmAgYy.jpeg"
         ]
     },
+    {
+        id: 26,
+        date: "2020-12-22",
+        route: "Superbowl Ice",
+        region: "CCW",
+        condition: "not in",
+        climbed: "no",
+        notes: "This is route 39 on the Schonwald Snoq Pass ski map. Needs more time.",
+        observer: "DJ Hutch",
+        images: [
+            "https://i.imgur.com/fi7WZhl.jpg"
+        ]
+    },
+    {
+        id: 27,
+        date: "2020-12-26",
+        route: "Alpental Falls",
+        region: "CCW",
+        condition: "not in",
+        climbed: "no",
+        notes: "Running water.",
+        observer: "Kyle McCrohan",
+        images: [
+            "https://i.imgur.com/KhDBYDd.jpg"
+        ]
+    },
 ]
