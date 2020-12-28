@@ -390,4 +390,63 @@ export const observations = [
             "https://i.imgur.com/KhDBYDd.jpg"
         ]
     },
+    {
+        id: 28,
+        date: "2020-12-27",
+        route: "Hot Tubbs and Melakwa Flows",
+        region: "CCW",
+        condition: "not protectable",
+        climbed: "no",
+        notes: "In general, these might be climbable, but the ice seems thin and super aerated from recent snowfall so I'm sure it wouldn't protect at all. There's lots of ice forming, but it seems to still be a little warm/wet for the ice. Encouraging.",
+        observer: "Kyle McCrohan",
+        images: [
+            "https://i.imgur.com/fDuenZo.jpg",
+            "https://i.imgur.com/vW2cQFI.jpg",
+            "https://i.imgur.com/WEbfNcO.jpg"
+        ]
+    },
+    {
+        id: 29,
+        date: "2020-11-12",
+        route: "Lake Donald outflow falls",
+        region: "CCE",
+        condition: "not in",
+        climbed: "no",
+        notes: "Main flow (WI3+ to 4?, full pitch) not in, nearby corners (WI4 to 4+?) possible, easier flows to right (WI2 to 3?) not in. Long (~8m, 3500') approach from Highway 2 on the Lake Ethel trail; another approach option is the Roaring Creek road.  Last winter it was fully in by 12/09.  No significant avy hazard.  Large boulder field beneath falls.",
+        coordinates: [47.7359, -120.8863],
+        observer: "Tripp Denison",
+        images: [
+            "https://i.imgur.com/4BiUuCr.jpeg",
+            "https://i.imgur.com/X1nI0K5.jpeg"
+        ]
+    },
+    {
+        id: 30,
+        date: "2020-11-12",
+        route: "Lake Donald outflow falls",
+        region: "CCE",
+        condition: "not in",
+        climbed: "no",
+        notes: "Main flow (WI3+ to 4?, full pitch) not in, nearby corners (WI4 to 4+?) possible, easier flows to right (WI2 to 3?) not in. Long (~8m, 3500') approach from Highway 2 on the Lake Ethel trail; another approach option is the Roaring Creek road.  Last winter it was fully in by 12/09.  No significant avy hazard.  Large boulder field beneath falls.",
+        coordinates: [47.7359, -120.8863],
+        observer: "Tripp Denison",
+        images: [
+            "https://i.imgur.com/4BiUuCr.jpeg",
+            "https://i.imgur.com/X1nI0K5.jpeg"
+        ]
+    },
+    {
+        id: 31,
+        date: "2020-12-23",
+        route: "Tooth NE Slabs",
+        region: "CCW",
+        condition: "few inches of snow on 1/2”-1” of ice",
+        climbed: "bailed",
+        notes: "Approach was a nice skin, snow gully up to the route was firm and easy to climb, first pitch was super thin and marginally protectable so decided to come back another day.",
+        observer: "Jon J",
+        images: [
+            "https://i.imgur.com/BdQaHIw.jpg",
+            "https://i.imgur.com/p6BRT0V.jpg"
+        ]
+    },
 ]
