@@ -491,6 +491,7 @@ export const observations = [
         condition: "Almost In",
         climbed: "attempted",
         observer: "Jon J",
+        notes: "Could probably climb it currently, but the first pitch at least wouldn’t be protectable, even with rock gear. Definitely will be in soon though and looks like a lot of fun!",
         images: [
             "https://i.imgur.com/3GFfxRM.jpeg",
             "https://i.imgur.com/m9G74gN.jpeg",
@@ -505,6 +506,7 @@ export const observations = [
         condition: "Thin",
         climbed: "bailed after a few pitches",
         observer: "David B",
+        notes: "Made an attempt on Guye Peak South Gulley yesterday. We added an extra starter pitch because it looked fun and then proceeded up two pitches more. Snow is pretty filled in but you're still making some M3 moves since the ice is pretty brittle and the rock is exposed in the more vertical steps. We decided to call it after a large sluff avalanche came through right after I finished making an anchor.",
         images: [
             "https://i.imgur.com/RH0a1XU.jpg",
             "https://i.imgur.com/zgjr2Yu.jpg"
