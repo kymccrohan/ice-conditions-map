@@ -449,4 +449,38 @@ export const observations = [
             "https://i.imgur.com/p6BRT0V.jpg"
         ]
     },
+    {
+        id: 32,
+        date: "2020-12-28",
+        route: "Roosevelt Ice",
+        region: "CCW",
+        condition: "Aerated ice, rotten",
+        climbed: "yes",
+        notes: "We climbed the thin gully feature, which was about 60m Wi2+/3-. The ice was rotten and protection was marginal. All the other climbs looked similar so we didn't climb anything else, but this are has a lot of potential!",
+        observer: "Kyle McCrohan",
+        coordinates: [47.476023, -121.475944],
+        link: "https://climberkyle.com/2020/12/28/roosevelt-ice-exploration/",
+        images: [
+            "https://i2.wp.com/climberkyle.com/wp-content/uploads/2020/12/IMG_20201228_102748022-scaled.jpg?resize=2048%2C1536&ssl=1",
+            "https://i0.wp.com/climberkyle.com/wp-content/uploads/2020/12/IMG_20201228_102851052_HDR-scaled.jpg?resize=1536%2C1152&ssl=1",
+            "https://i1.wp.com/climberkyle.com/wp-content/uploads/2020/12/IMG_20201228_103404683-scaled.jpg?resize=1536%2C1152&ssl=1",
+            "https://i1.wp.com/climberkyle.com/wp-content/uploads/2020/12/IMG_20201228_131447473_HDR-scaled.jpg?resize=1536%2C1152&ssl=1"
+        ]
+    },
+    {
+        id: 33,
+        date: "2020-12-28",
+        route: "North Side Snoqualmie Mt",
+        region: "CCW",
+        condition: "Thin",
+        climbed: "no",
+        observer: "Zach Novak",
+        images: [
+            "https://i.imgur.com/LKBnDz9.jpg",
+            "https://i.imgur.com/5bbFM4Y.jpg",
+            "https://i.imgur.com/h4FkSbG.jpg",
+            "https://i.imgur.com/PlSDPWE.jpg",
+            "https://i.imgur.com/tYTmWjv.jpg"
+        ]
+    },
 ]
