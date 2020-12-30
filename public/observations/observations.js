@@ -483,4 +483,31 @@ export const observations = [
             "https://i.imgur.com/tYTmWjv.jpg"
         ]
     },
+    {
+        id: 34,
+        date: "2020-12-28",
+        route: "Hot Tubbs, Bryant Peak",
+        region: "CCW",
+        condition: "Almost In",
+        climbed: "attempted",
+        observer: "Jon J",
+        images: [
+            "https://i.imgur.com/3GFfxRM.jpeg",
+            "https://i.imgur.com/m9G74gN.jpeg",
+            "https://i.imgur.com/38XCkSJ.jpeg"
+        ]
+    },
+    {
+        id: 35,
+        date: "2020-12-28",
+        route: "South Gully, Guye Peak",
+        region: "CCW",
+        condition: "Thin",
+        climbed: "bailed after a few pitches",
+        observer: "David B",
+        images: [
+            "https://i.imgur.com/RH0a1XU.jpg",
+            "https://i.imgur.com/zgjr2Yu.jpg"
+        ]
+    },
 ]
