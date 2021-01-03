@@ -512,4 +512,18 @@ export const observations = [
             "https://i.imgur.com/zgjr2Yu.jpg"
         ]
     },
+    {
+        id: 36,
+        date: "2021-01-01",
+        route: "Timequake",
+        region: "CCE",
+        condition: "In",
+        climbed: "no",
+        observer: "John A",
+        coordinates: [47.8120, -120.8219],
+        notes: "Found ice this afternoon above Lake Wenatchee.  It's a four to five pitch climb called Timequake in the Washington Ice Guide by Jason Martin and Alex Krawarik.  Good news - I put in a trail so you don't have to wallow in heavy snow for 3.5 hours.  Bad news - temps were warming, and it was already looking pretty lean compared to how I've seen it before.  Maybe it'll fatten up with time.",
+        images: [
+            "https://i.imgur.com/2VRtkFl.jpg"
+        ]
+    },
 ]
