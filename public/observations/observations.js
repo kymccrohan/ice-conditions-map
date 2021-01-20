@@ -526,4 +526,33 @@ export const observations = [
             "https://i.imgur.com/2VRtkFl.jpg"
         ]
     },
+    {
+        id: 37,
+        date: "2021-01-18",
+        route: "Melakwa Flows",
+        region: "CCW",
+        condition: "In",
+        climbed: "no",
+        observer: "Michael T",
+        notes: "Flows looking good. Get on early or a cloudy day, sun will cause a lot of mini avalanches.",
+        images: [
+            "https://i.imgur.com/sSp8OBr.jpg"
+        ]
+    },
+    {
+        id: 38,
+        date: "2021-01-18",
+        route: "The Upper West Side (Chair Peak)",
+        region: "CCW",
+        condition: "In",
+        climbed: "Sent!",
+        observer: "Michael T",
+        notes: "FA of an impressive new route on the backside of Chair Peak. M4, WI4+ PG13.",
+        link: "https://cascadeclimbers.com/forum/topic/103818-tr-chair-peak-west-face-fa-the-upper-west-side-wi4-m4-01182021/",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/P1033508.jpg.57a9635dec7400fca8c8e173b3c78585.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210118_225012861.thumb.jpg.4c4671fe6e3fb8da18ea369a1285be10.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/60074a3e6317b_TheUpperWestSideoverlay.thumb.jpg.3d5dc1c6c6d4a247211d26302c5c2747.jpg"
+        ]
+    },
 ]
