@@ -555,4 +555,32 @@ export const observations = [
             "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/60074a3e6317b_TheUpperWestSideoverlay.thumb.jpg.3d5dc1c6c6d4a247211d26302c5c2747.jpg"
         ]
     },
+    {
+        id: 39,
+        date: "2021-01-17",
+        route: "Source Lake Line",
+        region: "CCW",
+        condition: "Maybe in",
+        climbed: "no",
+        observer: "Noah D",
+        images: [
+            "https://i.imgur.com/IH4HZXf.jpeg"
+        ]
+    },
+    {
+        id: 40,
+        date: "2021-01-17",
+        route: "Chair Peak NE Buttress",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Noah D",
+        notes: "the route is in good condition, with high snow levels and decent ice higher up on the mountain. Rock gear was used for reliable belays, while many usual rock protection spots were somewhat buried along pitches so ice screws were placed often, even if questionable ice quality was encountered.",
+        link: "https://cascadeclimbers.com/forum/topic/103820-tr-chair-peak-ne-buttress-01172021/",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210117_211205243.thumb.jpg.f677a23c08229ec06b086e029a84a626.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210117_175238021.thumb.jpg.871607ee0794537196fb96d9db1345ff.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210117_172825930.jpg.d4baec1fb850d7eacc959b5f6cdf3458.jpg"
+        ]
+    },
 ]
