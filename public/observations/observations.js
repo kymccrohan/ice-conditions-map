@@ -583,4 +583,17 @@ export const observations = [
             "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210117_172825930.jpg.d4baec1fb850d7eacc959b5f6cdf3458.jpg"
         ]
     },
+    {
+        id: 41,
+        date: "2021-01-20",
+        route: "Hot Tubbs",
+        region: "CCW",
+        condition: "Thin",
+        climbed: "no",
+        observer: "Kyle H",
+        notes: "We thought the main flow Looked a bit too aerated and chandeliered to get screws and the ice did not quite top out the flow.  We climbed a smaller flow to the left which was thin but offered a few good screws.  We skied up to some of the dry tool routes, and booted from there because of difficult skinning conditions.  Snow was mostly supportable on foot, but we were punching through on certain sections.",
+        images: [
+            "https://i.imgur.com/lsiXaMO.jpeg"
+        ]
+    },
 ]
