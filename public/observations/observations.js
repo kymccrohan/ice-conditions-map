@@ -596,4 +596,55 @@ export const observations = [
             "https://i.imgur.com/lsiXaMO.jpeg"
         ]
     },
+    {
+        id: 42,
+        date: "2021-01-23",
+        route: "Source Lake Line",
+        region: "CCW",
+        condition: "Good, but still wet and building",
+        climbed: "yes",
+        observer: "Josh M",
+        notes: "Climbed to the two pin belay on the left line. Decided not to attempt the upper curtain because it was very wet and chandeliered. Rappelled and then climbed the right side through the final curtain. Rappelled from V-threads (2 raps). The climb is in pretty good shape and it is building-  It doesn’t get any sun (this time of year) so as long as temps hold it should get really fat. The pins at the belay are still good but are old and getting pitted. This route would be a good candidate for bolted belays. I’ll drag my kit up there next time if someone doesn’t beat me it.",
+        images: [
+            "https://i.imgur.com/gb2xT9N.jpg",
+            "https://i.imgur.com/j86hbBm.jpg"
+        ]
+    },
+    {
+        id: 43,
+        date: "2021-01-23",
+        route: "Banks Lake",
+        region: "EW",
+        condition: "Not in",
+        climbed: "no",
+        observer: "Igor S",
+        images: [
+            "https://i.imgur.com/gOEAlMT.jpg",
+            "https://i.imgur.com/N7uUwU0.jpg"
+        ]
+    },
+    {
+        id: 44,
+        date: "2021-01-22",
+        route: "Mt. Index, North Face",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "Doug is too busy to write a TR, but he climbed the North Face c2c and said it was in excellent shape."
+    },
+    {
+        id: 45,
+        date: "2021-01-23",
+        route: "Guye Peak, South Gully",
+        region: "CCW",
+        condition: "In, Mixed",
+        climbed: "Yes",
+        observer: "Mark R",
+        coordinates: [47.4386, -121.4073],
+        notes: "The route had lots of alpine ice and hard, compact snow, interrupted with mixed steps which generally included great sticks into solid ice. ",
+        images: [
+            "https://i.imgur.com/98ZR89n.jpg"
+        ]
+    },
 ]
