@@ -1,6 +1,6 @@
 import { getGoogleTrackingId } from './config'
 
-export const GA_TRACKING_ID = getGoogleTrackingId()
+export const GA_TRACKING_ID = 'G-PC5R6LE0XY'
 
 // https://developers.google.com/analytics/devguides/collection/gtagjs/pages
 export const pageview = (url) => {

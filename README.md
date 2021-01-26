@@ -13,7 +13,6 @@ You need a few environment variables and API Keys to run the app.
 Contact Kyle to get the keys, but you need to set
 ```.env 
 MAPBOX_API_KEY
-GA_TRACKING_ID
 ```
 I find it helpful to put these export commands in a file `.env` (excluded in the `.gitignore`).
 Then, each time you need to populate your env vars, just run:
