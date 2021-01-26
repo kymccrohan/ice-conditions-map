@@ -7,11 +7,13 @@ Install dependencies:
 ```.env
 npm install
 ```
-### Mapbox API Key
-Next, specify the development Mapbox API Key. You will need to contact
-Kyle to get this key, or you can create your own Mapbox account and use your own key for free.
-```.env
-export MAPBOX_API_KEY=<key>
+
+### Environment Variables
+You need a few environment variables and API Keys to run the app.
+Contact Kyle to get the keys, but you need to set
+```.env 
+MAPBOX_API_KEY
+GA_TRACKING_ID
 ```
 I find it helpful to put these export commands in a file `.env` (excluded in the `.gitignore`).
 Then, each time you need to populate your env vars, just run:
@@ -51,10 +53,7 @@ To deploy, first deploy locally, making sure everything will work fine when it i
 vercel dev
 ```
 You can visit the site at `http://localhost:3000` and make sure it's all good.
-To do this, you will probably need an `.env.build` file with any env vars like:
-```.env
-MAPBOX_API_KEY=<key>
-```
+To do this, you will probably need an `.env.build` file with any env vars like shown above.
 
 Then, simply type:
 ```.env
@@ -62,7 +61,7 @@ vercel
 ```
 Follow the prompts. You can reach it at https://ice-conditions-map.kymccrohan.vercel.app.
 
-To deploy to production (https://wa-ice.now.sh):
+To deploy to production (https://cascade-ice.now.sh):
 ```.env
 vercel --prod
 ```
