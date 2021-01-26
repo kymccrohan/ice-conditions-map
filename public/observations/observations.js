@@ -719,6 +719,26 @@ export const observations = [
         condition: "Great",
         climbed: "Sent",
         observer: "Dylan P",
+        link: "https://cascadeclimbers.com/forum/topic/103851-tr-sperry-peak-east-gully-01232021/",
         notes: "Bike snowfree all the way to the trailhead from the road closure. Gully mostly AI2 and neve. Crux awkward tree move high on the ridge. Awesome climb!",
+        images: [
+            "https://i.imgur.com/GwnQj3G.jpg",
+            "https://i.imgur.com/kNXh9pi.jpg",
+            "https://i.imgur.com/CSLKgVy.jpg"
+        ]
+    },
+    {
+        id: 52,
+        date: "2021-01-23",
+        route: "Snoqualmie Mt, North Side",
+        region: "CCW",
+        condition: "Mixed",
+        climbed: "Yes",
+        observer: "Daniel M",
+        notes: "Beautiful day out! Not much ice on NY gulley start or a unnamed variation but good stable snowy ice that made for smooth and easy climbing.  Near upper limit of tree line and above we saw the vaguely fresh snow from Wednesday coating ice.",
+        images: [
+            "https://i.imgur.com/oWPUHw7.jpg",
+            "https://i.imgur.com/1EjHD66.jpg"
+        ]
     },
 ]
