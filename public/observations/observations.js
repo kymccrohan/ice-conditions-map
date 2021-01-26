@@ -647,4 +647,78 @@ export const observations = [
             "https://i.imgur.com/98ZR89n.jpg"
         ]
     },
+    {
+        id: 46,
+        date: "2021-01-23",
+        route: "Snoqualmie Mt., NY Gully",
+        region: "CCW",
+        condition: "Thin, Mixed",
+        climbed: "Yes",
+        observer: "Fil D",
+        notes: "Thin with basically no ice but it went. Wish we left the ice screws at home and brought a few more smaller cams.",
+        images: [
+            "https://i.imgur.com/MqIo0vX.jpg",
+            "https://i.imgur.com/LGB85ht.jpg",
+            "https://i.imgur.com/oSYyChu.jpg"
+        ]
+    },
+    {
+        id: 47,
+        date: "2021-01-23",
+        route: "Kiddie Cliff",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Matt",
+        notes: "The main flow in the middle is still flowing and is unclimbable, but should freeze up soon if temps stay low. The left side in the gulley had a layer of snow on top and was hard to tell how thick it was, but could see patches of rock in some places. The right side was fat, though a bit cauliflowered and chandeliered in the upper tier.",
+    },
+    {
+        id: 48,
+        date: "2021-01-23",
+        route: "Chair Peak, NE Buttress",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Dan Stirling",
+        notes: "Screws used on 1st pitch and ice step. Small cams useful for anchors on the minimal rock pro spots encountered. Pitons would have been helpful if we brought them. Skin up and ski descent was a hassle due to avy debris below Chair and Bryant heading down to Source Lake.",
+        images: [
+            "https://i.imgur.com/KsiIYEe.jpg"
+        ]
+    },
+    {
+        id: 49,
+        date: "2021-01-23",
+        route: "Hot Tubbs",
+        region: "CCW",
+        condition: "Aerated, hollow, thin, mixed",
+        climbed: "Sent! ",
+        observer: "Nick Sweeney",
+        notes: "Poor protection.  Recommend 4x 10cm ice screws minimum. Rappelled after technical pitch with 70m ropes",
+        images: [
+            "https://i.imgur.com/UaPFAU1.jpeg"
+        ]
+    },
+    {
+        id: 50,
+        date: "2021-01-24",
+        route: "Hubba Hubba",
+        region: "CCE",
+        condition: "Thinnish but in",
+        climbed: "No ",
+        observer: "Bryan S",
+        notes: "Went solo, chickened out when my first couple swings punched through to the head of the tool.",
+        images: [
+            "https://i.imgur.com/l1wGxfy.jpg"
+        ]
+    },
+    {
+        id: 51,
+        date: "2021-01-23",
+        route: "Sperry Peak, E Face Gully",
+        region: "NCW",
+        condition: "Great",
+        climbed: "Sent",
+        observer: "Dylan P",
+        notes: "Bike snowfree all the way to the trailhead from the road closure. Gully mostly AI2 and neve. Crux awkward tree move high on the ridge. Awesome climb!",
+    },
 ]
