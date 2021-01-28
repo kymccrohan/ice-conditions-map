@@ -741,4 +741,74 @@ export const observations = [
             "https://i.imgur.com/1EjHD66.jpg"
         ]
     },
+    {
+        id: 53,
+        date: "2021-01-26",
+        route: "Goat Wall Ice",
+        region: "NCE",
+        condition: "Some In",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "Yesterday, we climbed the only decent looking ice we saw = the Standard. I would describe the ice as in the later adolescent phase, definitely fun and worth doing. Based on a quick glance, I would assume that the Czech Gully is in typical, mixed conditions, but again, I would assume I don't know what I am talking about. Goat's Beard not in.",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210126_192602527.jpg.f534a6505640ffcb0b7792be026fe896.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210126_205024154.jpg.87ae53369a85ae0116a54a761ba1a570.jpg"
+        ]
+    },
+    {
+        id: 54,
+        date: "2021-01-26",
+        route: "Entiat Ice",
+        region: "NCE",
+        condition: "Thin",
+        climbed: "No",
+        observer: "EZD",
+        notes: "The left side of Tyee Falls is probably climbable but much leaner than when I climbed it in years past. Preston Falls is nothing but flowing water, and the Fang has a long way to go to touch down.",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210126_234656691.PORTRAIT.jpg.ad775ab0a783cae4d6d632bfb7332bc4.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210127_000301542.jpg.300cb775835311fb23f1a179e688f266.jpg"
+        ]
+    },
+    {
+        id: 55,
+        date: "2021-01-23",
+        route: "Bryant Peak N Face",
+        region: "CCW",
+        condition: "Fat",
+        climbed: "Sent",
+        observer: "Jon J",
+        notes: "Climbed some on the north face of Bryant. ~30m, WI3+ section into a snow ledge rest, then WI3 section finishing in a steep snow couloir. Took 16s no problem. shaded all day so should be around for a while, high potential overhead avy risk. Descended by downclimbing the upper section to where ice was thick enough and setting up a v thread. If you wanted to, you could easily tag the summit by finishing up the snow couloir to the top.",
+        images: [
+            "https://i.imgur.com/otIA8yd.jpeg",
+            "https://i.imgur.com/DUtkK2B.jpeg"
+        ]
+    },
+    {
+        id: 56,
+        date: "2021-01-25",
+        route: "Lake Wenatchee Ice",
+        region: "CCE",
+        condition: "Good",
+        climbed: "No",
+        observer: "Tripp",
+        notes: "This Too Shall Pass in and looks great, Timequake first 2 pitches in and wet, upper pitches flowing water and not in. Bootpack in (thanks, John A!), 2h approach, requires low avy danger.",
+        images: [
+            "https://i.imgur.com/DkbyaiH.jpg",
+            "https://i.imgur.com/2dDSq5q.jpg",
+            "https://i.imgur.com/bQgzAGV.jpg"
+        ]
+    },
+    {
+        id: 57,
+        date: "2021-01-27",
+        route: "Hubba Hubba",
+        region: "CCE",
+        condition: "Thin",
+        climbed: "No",
+        observer: "CC",
+        notes: "Hubba Hubba looks... \"Scottish.\" Thin and probably unprotectable after about 30 feet but it was tough to judge from below. This snow dump is going to make the avy conditions on approach worse. Snowshoes needed. Avalanche observed from the day before. Stay Safe.",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/20210126_154137.jpg.3d8590502f0965fa8e29fa3fd24f9062.jpg",
+        ]
+    },
 ]
