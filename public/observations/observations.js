@@ -811,4 +811,19 @@ export const observations = [
             "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/20210126_154137.jpg.3d8590502f0965fa8e29fa3fd24f9062.jpg",
         ]
     },
+    {
+        id: 58,
+        date: "2021-01-28",
+        route: "Source Lake Line",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Josh Leclair",
+        notes: "Fattening up but still aerated and chandeliered. 5/5+ condition. Pins at first pitch belay are rusting but can be backed up by nuts and screws/ left a fresh sling and rap ring at the top tree.",
+        images: [
+            "https://i.imgur.com/bL4qyYz.jpeg",
+            "https://i.imgur.com/lI84eLy.jpeg",
+            "https://i.imgur.com/mDgD922.jpeg",
+        ]
+    },
 ]
