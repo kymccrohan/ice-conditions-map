@@ -826,4 +826,18 @@ export const observations = [
             "https://i.imgur.com/mDgD922.jpeg",
         ]
     },
+    {
+        id: 59,
+        date: "2021-01-29",
+        route: "Kiddie Cliff",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Kyle M",
+        notes: "We top roped the left climb with a 70m rope from the lowest tree (one below the tree with the tat). It was in 4/4+ techy condition. The right side looked like a 3 and maybe would take a screw.",
+        images: [
+            "https://i.imgur.com/4M4pcU6.jpeg",
+            "https://i.imgur.com/cxlR4h2.jpeg",
+        ]
+    },
 ]
