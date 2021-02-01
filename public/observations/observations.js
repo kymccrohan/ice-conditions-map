@@ -883,4 +883,18 @@ export const observations = [
             "https://i.imgur.com/niKq95g.jpg",
         ]
     },
+    {
+        id: 63,
+        date: "2021-01-31",
+        route: "Source Lake Line",
+        region: "CCW",
+        condition: "Spicy",
+        climbed: "Yes",
+        observer: "Nat",
+        notes: "Took screws, but not really on the top out. Was a bit aerated elsewhere, but a solid piece of ice.",
+        images: [
+            "https://i.imgur.com/uta9Dcx.jpeg",
+            "https://i.imgur.com/KMyDpbK.jpeg",
+        ]
+    },
 ]

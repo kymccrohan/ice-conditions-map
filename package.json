@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Washington-Ice-Climbing/ice-conditions-map#readme",
   "devDependencies": {
     "@zeit/next-less": "^1.0.1",
-    "next": "^10.0.5"
+    "next": "10.0.5"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
