@@ -840,4 +840,47 @@ export const observations = [
             "https://i.imgur.com/cxlR4h2.jpeg",
         ]
     },
+    {
+        id: 60,
+        date: "2021-01-29",
+        route: "North Face North Index",
+        region: "CCW",
+        condition: "In",
+        climbed: "Sent",
+        observer: "Michael and Sean",
+        link: "https://cascadeclimbers.com/forum/topic/103852-tr-mount-index-north-peak-north-face-01292021",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/traversereverse.thumb.jpg.d5ba033f4c803ca3240be6b732bcf69c.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/IMG_4142.thumb.JPG.3e1e5ddecf9af379672c41a749902934.JPG",
+        ]
+    },
+    {
+        id: 61,
+        date: "2021-01-29",
+        route: "Snostril",
+        region: "CCW",
+        condition: "Thin and In",
+        climbed: "Sent",
+        observer: "EZD",
+        notes: "New route on north side of Snoqualmie Mt.",
+        link: "https://cascadeclimbers.com/forum/topic/103748-wa-ice-conditions-2020-21/?do=findComment&comment=1161058",
+        images: [
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/6015979d2d1d3_PXL_20210129_193213786(1).thumb.jpg.356679489a257f438e0eeaa776120b7b.jpg",
+            "https://cascadeclimbers.com/forum/uploads/monthly_2021_01/PXL_20210129_211833156.thumb.jpg.371d167724c8b0c111a9953cdf84e152.jpg",
+        ]
+    },
+    {
+        id: 62,
+        date: "2021-01-30",
+        route: "Rap Wall",
+        region: "CCW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "John M",
+        notes: "Not sure what we got on but placed two screws, clipped two bolts, and was able to use a bolted anchor. Felt hard but I’m weak so take it for what it’s worth",
+        images: [
+            "https://i.imgur.com/No2neub.jpg",
+            "https://i.imgur.com/niKq95g.jpg",
+        ]
+    },
 ]
