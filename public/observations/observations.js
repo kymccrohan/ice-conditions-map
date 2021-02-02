@@ -897,4 +897,19 @@ export const observations = [
             "https://i.imgur.com/KMyDpbK.jpeg",
         ]
     },
+    {
+        id: 64,
+        date: "2021-01-31",
+        route: "Rap Wall",
+        region: "CCW",
+        condition: "Passable",
+        climbed: "Yes",
+        observer: "Simon and Eli",
+        notes: "We climbed a 35 meter pitch of ice, snice, and snow on the far right side of the Rap Wall. Some of the ice was decent and some of it was aerated mush. I placed a bunch of screws and less than half were ok. I'd say it was WI3- pg-13 conditions.",
+        images: [
+            "https://i.imgur.com/79lHiJX.jpg",
+            "https://i.imgur.com/z95rGNU.jpg",
+            "https://i.imgur.com/XSHbcDs.png"
+        ]
+    },
 ]
