@@ -912,4 +912,16 @@ export const observations = [
             "https://i.imgur.com/XSHbcDs.png"
         ]
     },
+    {
+        id: 65,
+        date: "2021-02-04",
+        route: "Goat Wall",
+        region: "NCE",
+        condition: "Mixed",
+        climbed: "No",
+        observer: "Gary J",
+        images: [
+            "https://i.imgur.com/1XSSSQR.jpg",
+        ]
+    },
 ]
