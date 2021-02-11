@@ -924,4 +924,17 @@ export const observations = [
             "https://i.imgur.com/1XSSSQR.jpg",
         ]
     },
+    {
+        id: 66,
+        date: "2021-02-10",
+        route: "Alpental Falls",
+        region: "CCW",
+        condition: "Coming In",
+        climbed: "No",
+        observer: "Kyle M",
+        notes: "Two days ago there was no ice here so it's coming in pretty fast, but also a lot of snow on the way...",
+        images: [
+            "https://i.imgur.com/A7eR47s.jpeg",
+        ]
+    },
 ]
