@@ -937,4 +937,33 @@ export const observations = [
             "https://i.imgur.com/A7eR47s.jpeg",
         ]
     },
+    {
+        id: 67,
+        date: "2021-02-12",
+        route: "Banks Lake",
+        region: "EW",
+        condition: "Thin",
+        climbed: "No",
+        observer: "Vern N",
+        notes: "Not quite there, probably will not be in this weekend for most people.",
+        images: [
+            "https://i.imgur.com/uxXxQHt.jpg",
+            "https://i.imgur.com/WOaD8kd.jpg",
+            "https://i.imgur.com/2M6spWq.jpg",
+            "https://i.imgur.com/PCJOfnk.jpg"
+        ]
+    },
+    {
+        id: 68,
+        date: "2021-02-12",
+        route: "Franklin Falls",
+        region: "CCW",
+        condition: "Coming in",
+        climbed: "No",
+        observer: "Stephen H",
+        notes: "Lots of running water still.",
+        images: [
+            "https://i.imgur.com/yKAyFC5.jpeg"
+        ]
+    },
 ]
