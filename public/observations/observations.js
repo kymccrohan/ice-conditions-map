@@ -966,4 +966,17 @@ export const observations = [
             "https://i.imgur.com/yKAyFC5.jpeg"
         ]
     },
+    {
+        id: 69,
+        date: "2021-02-13",
+        route: "Skookum Falls",
+        region: "SCW",
+        condition: "Thin, juvenile",
+        climbed: "No",
+        observer: "EZD",
+        notes: "Ice appears to be thin and juvenile. Likely 4+ and not protecting well. River crossing is non obvious.",
+        images: [
+            "https://i.imgur.com/T2yacR0.jpeg"
+        ]
+    },
 ]
