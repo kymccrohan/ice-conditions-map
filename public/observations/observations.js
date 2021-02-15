@@ -979,4 +979,21 @@ export const observations = [
             "https://i.imgur.com/T2yacR0.jpeg"
         ]
     },
+    {
+        id: 70,
+        date: "2021-02-14",
+        route: "Exit 38 Mt. Washington near Windfall Wall",
+        region: "CCW",
+        condition: "Thin but sufficient",
+        climbed: "Yes",
+        observer: "Tom M",
+        coordinates: [47.441, -121.675],
+        notes: "Can approach from iron horse trail, or hike down from Mt Washington trail.  First pitch WI3 gully with brushy top out.  Second pitch WI4(+?), placed angle pin high and left of column  (still there), good screws (mostly 16s) after the column.  Belayed off trees both pitches.",
+        images: [
+            "https://i.imgur.com/iq9MkNX.jpg",
+            "https://i.imgur.com/3q5uo0K.jpg",
+            "https://i.imgur.com/qiSwzqr.jpg",
+            "https://i.imgur.com/fr2m5lA.jpg"
+        ]
+    },
 ]
