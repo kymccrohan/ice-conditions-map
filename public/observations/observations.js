@@ -996,4 +996,21 @@ export const observations = [
             "https://i.imgur.com/fr2m5lA.jpg"
         ]
     },
+    {
+        id: 71,
+        date: "2021-02-14",
+        route: "Skookum Falls Right #1",
+        region: "SCW",
+        condition: "Thin",
+        climbed: "Yes",
+        observer: "Justin S",
+        coordinates: [47.050652, -121.576252],
+        notes: "Ice was thin, but plentiful stubbies on the first and second pitch. The gully on the third pitch had questionable protection with spooky sections of ice too thin to protect well with running water behind it. But the third pitch was the funnest pitch with interesting chimneying and stemming through the gully.",
+        images: [
+            "https://i.imgur.com/J2TTDkO.jpeg",
+            "https://i.imgur.com/hyD9W2E.jpeg",
+            "https://i.imgur.com/3Ggay6C.jpeg",
+            "https://i.imgur.com/v0nYUy4.jpeg"
+        ]
+    },
 ]
