@@ -1055,4 +1055,17 @@ export const observations = [
             "https://i.imgur.com/4UpSnda.jpg",
         ]
     },
+    {
+        id: 75,
+        date: "2021-02-16",
+        route: "Pan Dome Falls",
+        region: "NCW",
+        condition: "Barely In",
+        climbed: "Yes",
+        observer: "Wayne W",
+        notes: "Pandome barely panned out. Rotten at the top out, and the rest was snice.",
+        images: [
+            "https://i.imgur.com/6b7FgrG.jpg",
+        ]
+    },
 ]
