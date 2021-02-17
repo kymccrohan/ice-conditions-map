@@ -1013,4 +1013,46 @@ export const observations = [
             "https://i.imgur.com/v0nYUy4.jpeg"
         ]
     },
+    {
+        id: 72,
+        date: "2021-02-16",
+        route: "Banks Lake, next to Devil's Punchbowl",
+        region: "EW",
+        condition: "In, Chandiliered",
+        climbed: "Yes",
+        observer: "Josh L",
+        notes: "Climbed some 5/5+ line to the right of Devil's Punchbowl. Ice was aerated and chandiliered. Wet by the afternoon.",
+        images: [
+            "https://i.imgur.com/DiwEZyu.jpg",
+            "https://i.imgur.com/H1D2VZk.jpg",
+            "https://i.imgur.com/yMsjHfM.jpg",
+            "https://i.imgur.com/2vvp0z4.jpg"
+        ]
+    },
+    {
+        id: 73,
+        date: "2021-02-16",
+        route: "Highway 17, near Sun Lakes Golf Resort",
+        region: "EW",
+        condition: "Thin",
+        climbed: "Yes",
+        observer: "Josh L",
+        images: [
+            "https://i.imgur.com/F80JylJ.jpeg",
+            "https://i.imgur.com/7rhZkPS.jpeg",
+        ]
+    },
+    {
+        id: 74,
+        date: "2021-02-16",
+        route: "Highway 17, near Blue Lake Resort",
+        region: "EW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Josh L",
+        images: [
+            "https://i.imgur.com/kOF7IFM.jpg",
+            "https://i.imgur.com/4UpSnda.jpg",
+        ]
+    },
 ]
