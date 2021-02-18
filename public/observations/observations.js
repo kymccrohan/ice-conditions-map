@@ -1068,4 +1068,17 @@ export const observations = [
             "https://i.imgur.com/6b7FgrG.jpg",
         ]
     },
+    {
+        id: 76,
+        date: "2021-02-18",
+        route: "Children of the Sun",
+        region: "EW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "Probably won't last through the weekend.",
+        images: [
+            "https://i.imgur.com/xHzEw9k.jpeg",
+        ]
+    },
 ]
