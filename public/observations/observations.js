@@ -1081,4 +1081,29 @@ export const observations = [
             "https://i.imgur.com/xHzEw9k.jpeg",
         ]
     },
+    {
+        id: 77,
+        date: "2021-02-19",
+        route: "Champagne",
+        region: "EW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "Good but wet, starting to fall apart.",
+        images: [
+            "https://i.imgur.com/y85mDh5.jpg",
+        ]
+    },
+    {
+        id: 78,
+        date: "2021-02-19",
+        route: "H2o2",
+        region: "EW",
+        condition: "In",
+        climbed: "Yes",
+        observer: "EZD",
+        images: [
+            "https://i.imgur.com/P28Upbr.jpg",
+        ]
+    },
 ]
