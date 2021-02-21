@@ -1106,4 +1106,20 @@ export const observations = [
             "https://i.imgur.com/P28Upbr.jpg",
         ]
     },
+    {
+        id: 79,
+        date: "2021-02-20",
+        route: "Whitepine",
+        region: "CCE",
+        condition: "In",
+        climbed: "Yes",
+        observer: "Kyle M",
+        coordinates: [47.7823, -120.8753],
+        notes: "Climbed a bunch of different pillars at this crag. Ice was wet in places, but seemed solid enough for climbing, so-so for pro. The pillars might survive the next warm, hard to say. Great stuff while it lasts!",
+        images: [
+            "https://i.imgur.com/qIQoPko.jpeg",
+            "https://i.imgur.com/Ku9eig4.jpeg",
+            "https://i.imgur.com/wrlbzDH.jpeg"
+        ]
+    },
 ]
