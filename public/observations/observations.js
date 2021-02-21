@@ -1122,4 +1122,16 @@ export const observations = [
             "https://i.imgur.com/wrlbzDH.jpeg"
         ]
     },
+    {
+        id: 80,
+        date: "2021-02-19",
+        route: "The Pencil",
+        region: "CCE",
+        condition: "Maybe In",
+        climbed: "No",
+        observer: "Donald P",
+        images: [
+            "https://i.imgur.com/qUsviI9.jpeg"
+        ]
+    },
 ]
