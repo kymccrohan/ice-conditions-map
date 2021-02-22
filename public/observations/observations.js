@@ -1161,4 +1161,20 @@ export const observations = [
             "https://i.imgur.com/FSPM3Xk.jpeg"
         ]
     },
+    {
+        id: 83,
+        date: "2021-02-21",
+        route: "Eightmile Ice",
+        region: "CCE",
+        condition: "Thin, Aerated",
+        climbed: "Yes",
+        observer: "Eli S",
+        coordinates: [47.5558, -120.7635],
+        notes: "I climbed some fun moderate ice today in Leavenworth off of Icicle Creek Rd. Moderate 2 pitch route in the WI2 to 3- range. The crux protected well, but the rest of the climb was really thin and aerated in spots. Some rock gear is necessary for belays and a couple 10cm screws were nice to have. We left two rap anchors, one 65 meter rap, and one 30 meter rap gets you to the ground.",
+        images: [
+            "https://i.imgur.com/CeROOTt.jpg",
+            "https://i.imgur.com/hNlDr9S.jpg",
+            "https://i.imgur.com/FXov9Ac.jpg"
+        ]
+    },
 ]
