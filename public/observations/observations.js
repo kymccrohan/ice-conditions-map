@@ -1134,4 +1134,31 @@ export const observations = [
             "https://i.imgur.com/qUsviI9.jpeg"
         ]
     },
+    {
+        id: 81,
+        date: "2021-02-21",
+        route: "Skookum Falls",
+        region: "SCW",
+        condition: "Soft",
+        climbed: "No",
+        observer: "Jon M",
+        notes: "Went to go check out Skookum falls but warm weather made the ice sound too hollow and soft for our liking. At least we enjoyed the hike.",
+        images: [
+            "https://i.imgur.com/FOMiLl7.jpeg",
+            "https://i.imgur.com/o2ukqQM.jpeg"
+        ]
+    },
+    {
+        id: 82,
+        date: "2021-02-20",
+        route: "Franklin Falls",
+        region: "CCW",
+        condition: "Ok",
+        climbed: "Yes",
+        observer: "David G",
+        notes: "Looks better than it was.  Warm temps were hurting it today and looking worse for tomorrow.  There were some massive chunks of ice that fell off the main falls.  Wouldn't want to be near that!  I'd imagine more large chunks breaking off tomorrow with the rain water seeping in behind.",
+        images: [
+            "https://i.imgur.com/FSPM3Xk.jpeg"
+        ]
+    },
 ]
