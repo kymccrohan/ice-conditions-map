@@ -1177,4 +1177,17 @@ export const observations = [
             "https://i.imgur.com/FXov9Ac.jpg"
         ]
     },
+    {
+        id: 84,
+        date: "2021-02-27",
+        route: "Hemispheres Ice",
+        region: "NCW",
+        condition: "Not in",
+        climbed: "No",
+        observer: "Jon H",
+        notes: "This is on the south side of Hemispheres. Last year, it was much fatter in February.",
+        images: [
+            "https://i.imgur.com/hwKEYzE.jpg",
+        ]
+    },
 ]
