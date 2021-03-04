@@ -1200,4 +1200,30 @@ export const observations = [
         observer: "Wayne W",
         notes: "We climbed one of the left pillars white pines today. Would not recommend any further ascents of this or any of the climbs around there as they are melting rapidly. We were there a week ago and most routes lost over half of their structure and are no longer safe.The snow was rolling down in giant balls too and over our heads directly.",
     },
+    {
+        id: 86,
+        date: "2021-02-26",
+        route: "Stellar Falls",
+        region: "CCW",
+        condition: "In?",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "Someone was climbing it.",
+        images: [
+            "https://i.imgur.com/h4bvIFf.jpg"
+        ]
+    },
+    {
+        id: 87,
+        date: "2021-03-03",
+        route: "Hotline (Right Side Rap Wall)",
+        region: "CCW",
+        condition: "Barely In",
+        climbed: "Yes",
+        observer: "EZD",
+        notes: "This will be dead in a few days. Source Lake Line and Flow Reversal don't look good.",
+        images: [
+            "https://i.imgur.com/buOgolz.jpg"
+        ]
+    },
 ]
