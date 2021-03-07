@@ -1226,4 +1226,19 @@ export const observations = [
             "https://i.imgur.com/buOgolz.jpg"
         ]
     },
+    {
+        id: 88,
+        date: "2021-03-06",
+        route: "Strobach",
+        region: "SCE",
+        condition: "Hanging in there",
+        climbed: "Yes",
+        observer: "Vern N",
+        notes: "This is unnamed Strobach C, in the Motherlode area. Probably will be done in a day or two.",
+        images: [
+            "https://i.imgur.com/W7g0SVl.jpeg",
+            "https://i.imgur.com/UHGVclH.jpeg",
+            "https://i.imgur.com/dXqqqOZ.jpeg"
+        ]
+    },
 ]
