@@ -1241,4 +1241,14 @@ export const observations = [
             "https://i.imgur.com/dXqqqOZ.jpeg"
         ]
     },
+    {
+        id: 89,
+        date: "2021-03-09",
+        route: "Triple Couloirs",
+        region: "CCE",
+        condition: "Not in",
+        climbed: "Bailed",
+        observer: "Josh L",
+        notes: "No ice in the runnels. Good skiing conditions though.",
+    },
 ]
