@@ -1251,4 +1251,17 @@ export const observations = [
         observer: "Josh L",
         notes: "No ice in the runnels. Good skiing conditions though.",
     },
+    {
+        id: 90,
+        date: "2021-03-11",
+        route: "Satan's Sidewalk",
+        region: "NCW",
+        condition: "Fat",
+        climbed: "No",
+        observer: "Kyle M",
+        notes: "This is the hundred foot ice pitch above the Upper Curtis Glacier on Shuksan. It looks to be in great condition, maybe 3+?",
+        images: [
+            "https://i.imgur.com/0zc6IrN.jpg"
+        ]
+    },
 ]
