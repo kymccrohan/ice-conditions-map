@@ -1264,4 +1264,18 @@ export const observations = [
             "https://i.imgur.com/0zc6IrN.jpg"
         ]
     },
+    {
+        id: 91,
+        date: "2021-03-10",
+        route: "Chair Peak NE Buttress",
+        region: "CCW",
+        condition: "Variable",
+        climbed: "Yes",
+        observer: "Sergey F",
+        notes: "Started as one party, then another party came (also of two). Nice conditions in general -  cold and starry early morning, bright day with some clouds that came later. Note the following. There is a big crown from last week's (3/1) avalanche. The crown is really huge and should be taken into account.Please see the photo. On the right, I marked where we found a way to make the step. There is a moat and snow did not really hold. After we all made it through the passage, the other party chose a slightly different route (blue) and it worked well for them. Snow on the second pitch (after the gully on the right, from the trees) does not hold. It was hard to protect. As well as steep snow on the approach. Snow leading to the 'ice' step held much better. Ice quality was nice. It was 'plastic', no problem using short screws in the first gully. Also we used a couple of small cams (less than 1 inch). For anchor before the 'ice step', it was not a problem to use full length ice-screws. Circled with red - this is a train-size cornice and you need to rappel through it (on the left side, green). Near the end of this rappel, travers climber's right, under the rock. There is a piton you can use for another rappel. It will bring you over the crown. With the current snow condition, it could be very hairy with one 60 or 70 m ropes. Bring two to make the rappels I mentioned above. We were lucky to combine ropes with the other party. The 'cornice' chute does have pitons in the middle, on the climber's left side. If you do plan to use only one rope, you will have to prepare a station there and leave some gear behind. If rappelling with one rope and decided to skip building anchor (downclimbing a half of that gully instead), keep the moat in mind.",
+        images: [
+            "https://i.imgur.com/82pRtRO.jpeg",
+            "https://i.imgur.com/3XK8VC7.jpeg"
+        ]
+    },
 ]
