@@ -1278,4 +1278,19 @@ export const observations = [
             "https://i.imgur.com/3XK8VC7.jpeg"
         ]
     },
+    {
+        id: 92,
+        date: "2021-03-13",
+        route: "Chair Peak NE Buttress",
+        region: "CCW",
+        condition: "Very Good",
+        climbed: "Yes",
+        observer: "Zach W",
+        notes: "Snow was in really good condition. Still lots of snow on the route, but I was able to dig out the rock anchor between the two steps. Ice was good but short. Cornices continue to be a problem. Avalanche crown was easily avoidable by gaining the ridgeline early but requires a rappel on the descent. We were unable to find the piton mentioned in Sergeys report and repelled off a very sketchy horn. I would recommend future parties bring some small nuts or tips sized pitons to build a solid anchor.",
+        images: [
+            "https://i.imgur.com/4jHcAH3.jpeg",
+            "https://i.imgur.com/kuF9kay.jpeg",
+            "https://i.imgur.com/diKxuWs.jpeg"
+        ]
+    },
 ]
