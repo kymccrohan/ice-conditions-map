@@ -1293,4 +1293,17 @@ export const observations = [
             "https://i.imgur.com/diKxuWs.jpeg"
         ]
     },
+    {
+        id: 93,
+        date: "2021-03-23",
+        route: "Snostril",
+        region: "CCW",
+        condition: "Snowy",
+        climbed: "No",
+        observer: "Kyle M",
+        notes: "Passed by the Snostril with eZD, who made the FA a few months back. He said it looked rather snowy but there was still some ice. It is getting late in the season for this one.",
+        images: [
+            "https://i.imgur.com/jKzuhTG.jpg"
+        ]
+    },
 ]
