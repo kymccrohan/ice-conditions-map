@@ -1306,4 +1306,20 @@ export const observations = [
             "https://i.imgur.com/jKzuhTG.jpg"
         ]
     },
+    {
+        id: 94,
+        date: "2021-03-20",
+        route: "Chair NE Buttress",
+        region: "CCW",
+        condition: "Snice and Ice",
+        climbed: "Yes",
+        observer: "Justin S",
+        notes: "Snice on the left-hand variation, good snow on upper pitches. Ice step was only 5ft tall, but slightly overhanging. Descended standard descent. Downclimbed to notch. Then did three 70m rappels. Added piton and webbing for second anchor. Built an anchor near the crown with an equalized v-thread and piton.",
+        images: [
+            "https://i.imgur.com/RKARxCY.jpg",
+            "https://i.imgur.com/pvRRdc0.jpg",
+            "https://i.imgur.com/eol1Tir.jpg",
+            "https://i.imgur.com/Dex1hN9.jpg"
+        ]
+    },
 ]
