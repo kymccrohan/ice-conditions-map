@@ -1322,4 +1322,17 @@ export const observations = [
             "https://i.imgur.com/Dex1hN9.jpg"
         ]
     },
+    {
+        id: 95,
+        date: "2021-03-27",
+        route: "Dragontail Peak N Face",
+        region: "CCE",
+        condition: "Looks Thin",
+        climbed: "No",
+        observer: "Kyle M",
+        notes: "Just passing from a distance, but the runnels look dry.",
+        images: [
+            "https://i1.wp.com/climberkyle.com/wp-content/uploads/2021/03/DSC06935.jpg?resize=1536%2C1024&ssl=1"
+        ]
+    },
 ]
