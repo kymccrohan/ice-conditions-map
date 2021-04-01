@@ -1335,4 +1335,18 @@ export const observations = [
             "https://i1.wp.com/climberkyle.com/wp-content/uploads/2021/03/DSC06935.jpg?resize=1536%2C1024&ssl=1"
         ]
     },
+    {
+        id: 96,
+        date: "2021-03-30",
+        route: "Colfax Peak N Side",
+        region: "NCW",
+        condition: "Undetermined",
+        climbed: "No",
+        observer: "Nick D",
+        notes: "Photos from a distance.",
+        images: [
+            "https://i.imgur.com/Ez8uPho.jpg",
+            "https://i.imgur.com/MDEl2r5.jpg"
+        ]
+    },
 ]
