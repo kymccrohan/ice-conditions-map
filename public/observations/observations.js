@@ -1349,4 +1349,18 @@ export const observations = [
             "https://i.imgur.com/MDEl2r5.jpg"
         ]
     },
+    {
+        id: 97,
+        date: "2021-03-13",
+        route: "Three Fingers NE Face",
+        region: "CCW",
+        condition: "Fat?",
+        climbed: "No",
+        observer: "Jon J",
+        notes: "Approach is pretty long, drop down to the creek as early as possible and follow that instead of following the trail that’s up on the valley wall, then turn right and follow the branch of the creek up into the basin below the NE face. There is also a line on the L of the face that didn’t look climbable currently (and may never be climbable) and a few lines up the sub-peak on the R of the face.",
+        images: [
+            "https://i.imgur.com/eNrw6hb.jpg",
+            "https://i.imgur.com/hpugTLn.jpg"
+        ]
+    },
 ]
