@@ -1363,4 +1363,14 @@ export const observations = [
             "https://i.imgur.com/hpugTLn.jpg"
         ]
     },
+    {
+        id: 98,
+        date: "2021-04-02",
+        route: "Chair Peak Northeast Buttress",
+        region: "CCW",
+        condition: "Thin and Melting",
+        climbed: "Yes",
+        observer: "Krzysztof O",
+        link: "https://www.mountaineers.org/activities/trip-reports/intermediate-alpine-climb-chair-peak-northeast-buttress-winter-4"
+    },
 ]
