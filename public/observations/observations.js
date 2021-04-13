@@ -1373,4 +1373,46 @@ export const observations = [
         observer: "Krzysztof O",
         link: "https://www.mountaineers.org/activities/trip-reports/intermediate-alpine-climb-chair-peak-northeast-buttress-winter-4"
     },
+    {
+        id: 99,
+        date: "2021-04-06",
+        route: "Three Fingers NE Face",
+        region: "CCW",
+        condition: "Sunbaked",
+        climbed: "No",
+        observer: "Ryan S",
+        notes: "Ice is fat but sunbaked and there is a high volume of rock and ice fall as soon as the morning sun hits",
+        images: [
+            "https://i.imgur.com/Xde4LyO.jpg",
+            "https://i.imgur.com/W7xnA91.jpg"
+        ]
+    },
+    {
+        id: 100,
+        date: "2021-04-07",
+        route: "Colfax Peak",
+        region: "NCW",
+        condition: "Questionable",
+        climbed: "No",
+        observer: "James P",
+        notes: "CH is out, Polish is questionable.",
+        images: [
+            "https://i.imgur.com/hWdKWxY.jpeg"
+        ]
+    },
+    {
+        id: 101,
+        date: "2021-04-11",
+        route: "Lake Victoria (Cashmere)",
+        region: "CCE",
+        condition: "Fat",
+        climbed: "No",
+        observer: "Nick R",
+        notes: "Two pretty thick lines on the south end of lake Victoria near Cashmere mountain.",
+        images: [
+            "https://i.imgur.com/9QrEXO7.jpeg",
+            "https://i.imgur.com/kAciDWu.jpeg",
+            "https://i.imgur.com/OaLIRnJ.jpeg"
+        ]
+    },
 ]
