@@ -1415,4 +1415,18 @@ export const observations = [
             "https://i.imgur.com/OaLIRnJ.jpeg"
         ]
     },
+    {
+        id: 102,
+        date: "2021-04-15",
+        route: "Colfax Peak, Polish Route",
+        region: "NCW",
+        condition: "Thin",
+        climbed: "Attempted",
+        observer: "Josh L",
+        notes: "Attempted polish route today (4/15) made it up lower 2 pitches to right before first snowfield and could see hanging dagger was way to thin to get on without snapping it off. Ice on lower pitches is great, bergschrund filled in and was able to step across right to the base of the route. Was not able to get pictures of the dagger we had to bail right away when my buddy got hit with a huge chunk of ice knocked off by me, not natural ice fall. I'll include a photo of the first pitch and a picture of the whole route.",
+        images: [
+            "https://i.imgur.com/ON767BO.jpg",
+            "https://i.imgur.com/z2KBLFg.jpg"
+        ]
+    },
 ]
