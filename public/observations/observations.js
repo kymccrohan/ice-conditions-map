@@ -1429,4 +1429,17 @@ export const observations = [
             "https://i.imgur.com/z2KBLFg.jpg"
         ]
     },
+    {
+        id: 103,
+        date: "2021-04-18",
+        route: "Stuart Glacier Couloir",
+        region: "CCE",
+        condition: "Fat",
+        climbed: "Attempted",
+        observer: "James C",
+        notes: "The two ice steps in the couloir just past the constriction are in fat condition. WI2-3. Image is of the first step, which is the longer, more difficult of the two. These are deeply recessed in the couloir and do not receive much light, and could be good for a while.",
+        images: [
+            "https://i.imgur.com/XOBjSqy.jpg"
+        ]
+    },
 ]
