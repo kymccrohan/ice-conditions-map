@@ -1442,4 +1442,14 @@ export const observations = [
             "https://i.imgur.com/XOBjSqy.jpg"
         ]
     },
+    {
+        id: 104,
+        date: "2021-05-08",
+        route: "Early Winters Couloir",
+        region: "NCE",
+        condition: "Good",
+        climbed: "Yes",
+        observer: "Deb",
+        notes: "It was a mixture of steep snow, M4+, WI-2, and 5.7 climbed in crampons and bare hands. Ice at the entry pitch was thin and delaminating. The crux had a smearing of ice and likely would have taken a screw, however we did not bring any, not expecting to find ice. Other smears of low angle ice were present in the couloir.",
+    },
 ]
